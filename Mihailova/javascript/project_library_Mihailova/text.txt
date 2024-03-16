@@ -1,0 +1,4 @@
+[
+Roman in sea]
+[narrator='s', length=2.5, title='k', author='a', genre='d', Isbn='null', publicationyear=0, pagenumber=0, language='null', publisher='null'}]
+[ElectronicBook{format='s', fileSize=5.3, title='a', author='a', genre='k', Isbn='null', publicationyear=0, pagenumber=0, language='null', publisher='null'}]
